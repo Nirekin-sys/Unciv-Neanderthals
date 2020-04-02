@@ -1,5 +1,5 @@
 ## Chieftain Grug leads the Neanderthals in Yairm's Unciv.
-![Preview](https://cdn.discordapp.com/attachments/556615339849416736/695159463375536179/unknown.png)
+![Preview](https://cdn.discordapp.com/attachments/556615339849416736/695164649615655002/unknown.png)
 ![Preview2](https://cdn.discordapp.com/attachments/556615339849416736/695158826764075058/unknown.png)
 * Uniques
   * Primal Savagery [River Warlord] Recieve Triple Gold from Barbarian encampments and pillaging Cities. Embarked Units can defend themselves.
